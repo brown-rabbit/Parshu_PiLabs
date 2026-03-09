@@ -87,9 +87,9 @@ Both devices join the same private network, allowing secure communication regard
 
 ## Screenshots
 
-![Tailscale IP](images/tailscale-ip.png)
+![Tailscale IP](images/tailscale_login.png)
 
-![SSH Connection](images/ssh-connection.png)
+![SSH Connection](images/ssh_connection.png)
 
 
 
