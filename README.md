@@ -21,7 +21,7 @@ Hardware:
 - Laptop: Lenovo IdeaPad Gaming 3i  
     CPU: Intel Core i5 (10th Gen)  
     GPU: NVIDIA GTX 1650  
-    RAM: 16 GB  
+    RAM: 24 GB  
     Storage: 512 GB SSD  
 
 Operating System:
