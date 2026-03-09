@@ -11,7 +11,7 @@ This repository documents small practical projects focused on:
 
 The goal is to learn by building real infrastructure and documenting the process.
 
-# Lab Environment
+## Lab Environment
 
 Hardware:
 - Server Device: Raspberry Pi 4  
@@ -30,7 +30,7 @@ Operating System:
 
 ---
 
-# Lab Projects
+## Lab Projects
 
  Project  Description 
 |-------|------------|
@@ -42,7 +42,7 @@ Operating System:
 
 ---
 
-# Project Structure
+## Project Structure
 
 Parshu_PiLabs -
 
@@ -57,7 +57,7 @@ Each folder contains documentation, setup steps, and observations from the lab.
 
 ---
 
-# Learning Goals
+## Learning Goals
 
 - Understand Linux server management
 - Learn networking concepts through real systems
