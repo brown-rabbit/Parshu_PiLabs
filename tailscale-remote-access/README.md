@@ -87,11 +87,9 @@ Both devices join the same private network, allowing secure communication regard
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="2(1)" src="https://github.com/user-attachments/assets/e3f2530f-046a-4be2-b1dc-fa9e0fdbd286" />
+![Tailscale IP](images/tailscale-ip.png)
 
-
-<img width="1920" height="1080" alt="Screenshot 2026-03-09 121235(1)" src="https://github.com/user-attachments/assets/f3c026ec-ab5d-40c2-a084-a126b6ba9bf4" />
-
+![SSH Connection](images/ssh-connection.png)
 
 
 
