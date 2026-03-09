@@ -99,7 +99,7 @@ Both devices join the same private network, allowing secure communication regard
 - Why routers normally block incoming connections
 - How VPN-based networking tools like Tailscale simplify remote server access
 - Basic server management using SSH
-- Used the Authentication keys so no need for the passcodes.
+- Used authentication keys so password entry is not required..
 
 ---
 
