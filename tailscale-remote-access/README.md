@@ -1,6 +1,6 @@
 # Tailscale Remote Access Lab
 
-# Objective
+## Objective
 
 The goal of this lab was to set up secure remote access to my Raspberry Pi so I can connect to it from outside my home network (for example from university). 
 
@@ -8,7 +8,7 @@ Instead of opening ports on the router, I used Tailscale to create a secure priv
 
 ---
 
-# Tools Used
+## Tools Used
 
 - Raspberry Pi 4
 - Raspberry Pi OS
@@ -17,7 +17,7 @@ Instead of opening ports on the router, I used Tailscale to create a secure priv
 
 ---
 
-# Why I Built This
+## Why I Built This
 
 Normally, devices inside a home network cannot be accessed directly from outside networks.
 
@@ -29,7 +29,7 @@ This allows the Raspberry Pi to function like a small server that I can manage r
 
 ---
 
-# Installation Steps
+## Installation Steps
 
 1. Updated system packages
      - sudo apt update
@@ -44,7 +44,7 @@ This allows the Raspberry Pi to function like a small server that I can manage r
 
 ---
 
-# Verifying the Setup
+## Verifying the Setup
 
 After logging in, the Raspberry Pi was assigned a Tailscale IP address.
 
@@ -61,7 +61,7 @@ The connection worked successfully from another network.
 
 ---
 
-# Network Concept
+## Network Concept
 
 Without Tailscale
 
@@ -93,7 +93,7 @@ Both devices join the same private network, allowing secure communication regard
 
 
 
-# What I Learned
+## What I Learned
 
 - How remote access works in home networks
 - Why routers normally block incoming connections
@@ -103,7 +103,7 @@ Both devices join the same private network, allowing secure communication regard
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 - Set up automatic startup for services
 - Add monitoring tools for the Raspberry Pi
