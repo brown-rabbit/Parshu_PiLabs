@@ -44,12 +44,13 @@ Operating System:
 
 # Project Structure
 
-Parshu_PiLabs
-│
-├ tailscale-remote-access
-├ pihole-dns-server
-├ nginx-web-server
-└ future-labs
+Parshu_PiLabs -
+
+1. tailscale-remote-access
+2. pihole-dns-server
+3. nginx-web-server
+4. aws-cloud-website
+5. future-labs
 
 
 Each folder contains documentation, setup steps, and observations from the lab.
