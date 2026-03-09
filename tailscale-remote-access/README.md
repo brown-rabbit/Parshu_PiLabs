@@ -33,7 +33,7 @@ This allows the Raspberry Pi to function like a small server that I can manage r
 
 1. Updated system packages
      - sudo apt update
-     - 
+     
 2. Installed Tailscale
      - curl -fsSL https://tailscale.com/install.sh| sh
 
